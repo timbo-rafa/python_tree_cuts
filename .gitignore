@@ -1,0 +1,4 @@
+.noseids
+nosetests.xml
+**/__pycache__
+.vscode
